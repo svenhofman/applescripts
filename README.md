@@ -10,4 +10,4 @@ Scripts included:
 
 - `RemoveEncapsulatingFolder`: If a folder is selected in Finder, it will extract the items of that folder into the current directory, and remove the folder itself
 
-- `ShowFinderWindow`: Brings the current Finder window of the current desktop forward. If no window exists for the current desktop, it creates a new one.
+- `ShowFinderWindow`: Brings the current Finder window of the current desktop forward. If no window exists for the current desktop, it creates a new one
